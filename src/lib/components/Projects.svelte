@@ -103,6 +103,7 @@
         justify-content: space-between;
         padding: 0 20px;
         box-sizing: border-box;
+        border-top: 1px solid var(--text-color);
     }
 
     .project {

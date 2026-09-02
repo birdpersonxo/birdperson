@@ -1,8 +1,8 @@
 <div class="header-wrapper">
     <div class="header">
-        <div class="logo">
+        <a class="logo" href="/">
             <b>DEEPAK</b> RAJAN
-        </div>
+        </a>
         <div class="links">
             <a class="link" href="/projects">
                 projects
